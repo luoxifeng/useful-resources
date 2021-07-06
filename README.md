@@ -10,7 +10,8 @@
   > Similar to hyperscript, virtual-dom/h, React.createElement, and Vue’s createElement
 
 ## Javascript
-- 
+- ramda.js
+- rxjs
 
 ## Css
 - tailwindcss
