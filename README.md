@@ -11,6 +11,7 @@
 
 ## Javascript
 - ramda.js
+  > 函数式工具库，类似于lodash
 - rxjs
 
 ## Css
