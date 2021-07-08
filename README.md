@@ -13,6 +13,7 @@
 - ramda.js
   > 函数式工具库，类似于lodash
 - rxjs
+  > 函数响应式编程异步流程控制库
 
 ## Css
 - tailwindcss
