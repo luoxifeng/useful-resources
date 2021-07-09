@@ -10,14 +10,16 @@
   > Similar to hyperscript, virtual-dom/h, React.createElement, and Vue’s createElement
 
 ## Javascript
-- ramda.js
-  > 函数式工具库，类似于lodash
 - rxjs
   > 函数响应式编程异步流程控制库
+- ramda.js
+  > 函数式工具库，类似于lodash
+- 
 
 ## Css
 - tailwindcss
 - animate.css
+  > 轻量级的css动画库
 
 ## Node
 - ts-node
