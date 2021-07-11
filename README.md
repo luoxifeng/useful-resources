@@ -20,7 +20,7 @@
 - tailwindcss
   > 原子css库
 - animate.css
-  > 轻量级的css动画库
+  > 轻量级的css动画库，各种丰富的动画特效
 
 ## Node
 - ts-node
